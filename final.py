@@ -22,8 +22,19 @@ def AddExpense():
             print(warning + "Invalid amount. Please enter numeric value.")
 
     description = input("Enter description:")
-    with open("expenses.csv","a") as file:
+
+    try:
+        with open("expenses.csv", "r") as file:
+            first_line = file.readline().strip()
+            write_header = not first_line  
+    except FileNotFoundError:
+        write_header = True  
+
+    with open("expenses.csv", "a") as file:
+        if write_header:
+            file.write("Date,Category,Amount,Description\n") 
         file.write(f"{date},{category},{amount},{description}\n")
+
 
 def ViewAllExpenses():
     try:
@@ -321,3 +332,4 @@ while True:
         case _:
             print(warning + "Invalid input.")
 
+# * Best Regrads |  Muhammad Ali - Department of Software Engineering
