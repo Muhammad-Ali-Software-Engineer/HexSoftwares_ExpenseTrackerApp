@@ -1,6 +1,0 @@
-Date,Category,Amount,Description
-09-09-2002,sweet,1000.0,sweets
-28-02-2026,food,500.0,lunch
-01-03-2026,travel,2000.0,travel expenses..
-03-03-2026,food,1250.0,iftar
-08-03-2026,transport,540.0,bus fare to office
