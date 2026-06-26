@@ -1,8 +1,12 @@
 # Expense Tracker App 💰
+A console-based Python application for recording, managing, and analyzing daily expenses using CSV file storage.
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Internship](https://img.shields.io/badge/Internship-HexSoftwares-orange)
 
 <!--**Project:** Python Programming Internship – Hex Softwares Pvt. Ltd. (Remote)  
 **Intern:** Muhammad Ali (Department of Software Engineering)-->
-A console-based Python application for recording, managing, and analyzing daily expenses using CSV file storage.
 
 ---
 ## 🏢 Internship Project
