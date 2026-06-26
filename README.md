@@ -1,14 +1,21 @@
 # Expense Tracker App 💰
 
-**Project:** Python Programming Internship – Hex Softwares Pvt. Ltd. (Remote)  
-**Intern:** Muhammad Ali (Department of Software Engineering)
+<!--**Project:** Python Programming Internship – Hex Softwares Pvt. Ltd. (Remote)  
+**Intern:** Muhammad Ali (Department of Software Engineering)-->
+A console-based Python application for recording, managing, and analyzing daily expenses using CSV file storage.
 
 ---
+## 🏢 Internship Project
 
+This project was developed during my **Python Programming Internship** at **HexSoftwares** Pvt. Ltd. (Remote).
+
+The application demonstrates practical implementation of Python programming concepts including file handling, data processing, CRUD operations, exception handling, and console-based application development.
+
+---
 ## 📌 Project Overview
-The **Expense Tracker App** is a command-line Python application designed to help users record, manage, and analyze their daily expenses.
+The **Expense Tracker App** is a command-line Python application designed to help users record, manage, and analyze their daily expenses. <br/>
 
-This project was developed as part of my **Python Programming Internship at Hex Softwares Pvt. Ltd.**. The application allows users to add, edit, delete, search, and analyze expenses while storing data in a CSV file.
+The application allows users to add, edit, delete, search, and analyze expenses while storing data in a CSV file. 
 
 The goal of this project was to apply core Python programming concepts to build a practical and useful financial tracking tool.
 
@@ -107,23 +114,27 @@ python app.py
 9. Delete Expense
 10. Exit
 ```
-## Example Expense Record
+## 📊 Sample CSV Data:
 ```
 Date,Category,Amount,Description
 12-06-2025,Food,250,Lunch
 13-06-2025,Transport,100,Bus Fare
 ```
 ---
-## Data Stored in CSV:
-
+## 📸 Screenshot:
+<!--
 ![Expense Tracker Screenshot](screenshot.png)
+-->
+
+<img src="screenshot.png" alt="screenshot" width=500>
 
 ---
-<h2 align="center">👨‍💻 About Me</h2>
+
+<h2 align="center">👨‍💻 Developer</h2>
 
 <div align="center">
   <p style="font-size:24">
-   Hi, I'm <b>Muhammad Ali</b> 👋<br>
+   Hi 👋, I'm <b>Muhammad Ali</b> <br>
     <p>
     <!-- Skill Icons with text, vertically adjusted -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" style="position: relative; top: 10px;" alt="HTML5"/> Frontend Developer &emsp;
