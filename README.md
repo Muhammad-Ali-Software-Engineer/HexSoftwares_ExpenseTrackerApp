@@ -73,7 +73,7 @@ Make sure Python **3.10 or later** is installed on your system.
 Open a terminal or command prompt and run:
 
 ```bash
-git clone https://github.com/Muhammad-Ali-Software-Engineer/HexSoftwares_ExpenseTrackerApp/
+git clone https://github.com/Muhammad-Ali-Software-Engineer/HexSoftwares_ExpenseTrackerApp.git
 ```
 ### 3️⃣ Navigate to project folder:
 ```
@@ -87,7 +87,7 @@ pip install colorama
 ```
 ### 5️⃣ Run the Program
 ```
-python final.py
+python app.py
 ```
 
 ### 6️⃣ Follow on-screen instructions to add, view, edit, and analyze your expenses.
@@ -114,7 +114,7 @@ Date,Category,Amount,Description
 13-06-2025,Transport,100,Bus Fare
 ```
 ---
-## ScreenShot Output CSV File(on github):
+## Data Stored in CSV:
 
 ![Expense Tracker Screenshot](screenshot.png)
 
