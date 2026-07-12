@@ -1,7 +1,7 @@
 # Expense Tracker App 💰
 A console-based Python application for recording, managing, and analyzing daily expenses using CSV file storage.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14.0-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Internship](https://img.shields.io/badge/Internship-HexSoftwares-orange)
 
