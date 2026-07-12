@@ -154,15 +154,38 @@ Date,Category,Amount,Description
   </p>
 </div>
 
+
 <div align="center">
   <!-- Contact Icons with original colors, dark-mode friendly -->
-  <a href="https://github.com/Muhammad-Ali-Software-Engineer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>
-  </a> &emsp;
-  <a href="https://linkedin.com/in/Muhammad-Ali-Software-Engineer" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn"/>
-  </a> &emsp;
-  <a href="mailto:MuhammadAliOfficial75@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="35" alt="Email"/>
-  </a>
+
+
+<a href="https://github.com/Muhammad-Ali-Software-Engineer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.simpleicons.org/github/FFFFFF">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://cdn.simpleicons.org/github/181717">
+    <img width="35" src="https://cdn.simpleicons.org/github/181717" alt="GitHub">
+  </picture>
+</a>
+&emsp;
+
+
+<a href="https://linkedin.com/in/Muhammad-Ali-Software-Engineer" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    width="35"
+    alt="LinkedIn"
+  />
+</a>
+&emsp;
+
+<a href="mailto:MuhammadAliOfficial75@gmail.com">
+  <img
+    src="https://www.gstatic.com/images/icons/material/product/2x/gmail_64dp.png"
+    width="35"
+    alt="Gmail"
+  />
+</a>
+
 </div>
